@@ -1,2 +1,2 @@
 # sigmoidal_projects
-Portfólio de projetos de Data Science.
+Portfólio para projetos de Data Science.
